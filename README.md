@@ -1,5 +1,5 @@
 # remoteshell
-Expanding on a remote shell solution of red team.
+Expanding on a remote shell solution for red teams, in order to gain access to remote systems in penetration testing
 
 Kivy Remote Shell (https://github.com/kivy/kivy-remote-shell/)
 =================
